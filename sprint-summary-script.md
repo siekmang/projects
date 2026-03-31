@@ -1,6 +1,6 @@
 # Sprint Summary Write-up Assistant
 
-A Python script that pulls from a Trello board and generates a structured summary template, making a recurring task faster and less dependant on memory.
+A [Python script](https://github.com/siekmang/trello-reporting-tool) that pulls from a Trello board and generates a structured summary template, making a recurring task faster and less dependant on memory.
 
 ## The Problem
 

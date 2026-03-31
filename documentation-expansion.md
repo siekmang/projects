@@ -4,7 +4,7 @@ Reducing the bus factor on our web extension by documenting institutional knowle
 
 ## The Problem
 
-After 8+ months of working on the extension, I'd become the primary holder of a lot of knowledge that wasn't written down anywhere: specific quirks, decisions, things that just lived in my head because I'd figured them out the hard way. That's a liability. If I'm unavailable, whoever picks this up is starting from a harder place than they need to be.
+After 8+ months of working on the [extension](https://github.com/Unity-Environmental-University/lxd-tools), I'd become the primary holder of a lot of knowledge that wasn't written down anywhere: specific quirks, decisions, things that just lived in my head because I'd figured them out the hard way. That's a liability. If I'm unavailable, whoever picks this up is starting from a harder place than they need to be.
 
 ## What I Did
 

@@ -1,6 +1,8 @@
 ## Table of Contents
 
-These projects span CI/CD infrastructure, Canvas API automation, internal tooling, and engineering culture — built while maintaining a TypeScript browser extension used by 20 people across our learning technology team.
+These projects span CI/CD infrastructure, Canvas API automation, internal tooling, and documentation standards — built while maintaining a TypeScript browser extension used by 20 people across our learning design team.
+
+All of this work highlights the process of identifying friction and building or improving systems to reduce it. I came up through learning technology support, spending my days digging to the root of the problem, not just a solution. That became foundational when I moved into building the tools. It created a systems-minded approach that considers how users interact with the tools.
 
 - [Web Extension Build Pipeline](build-pipeline-automation.md)
 - [Course Update Process Automation](canvas-api-process.md)

@@ -8,7 +8,7 @@ A new hidden module needed to be introduced into all undergraduate courses in a 
 
 ## What I Did
 
-I led the discovery phase on how the process needed to function in Canvas to avoid surfacing the module to students who didn't need to see, and assigning it to specific students when they did need to see it. Then I built a process into our TypeScript extension that used Canvas API calls to automate the steps it would take to get that module into the blueprint for each course. Built in user feedback to make sure the user knows the process is in progress.
+I led the discovery phase on how the process needed to function in Canvas to avoid surfacing the module to students who didn't need to see, and assigning it to specific students when they did need to see it. Then I built a process into our [TypeScript extension](https://github.com/Unity-Environmental-University/lxd-tools) that used Canvas API calls to [automate the steps](https://github.com/Unity-Environmental-University/lxd-tools/blob/4ef578755d77ce129b29f1a52f247f9bad1146df/src/publish/publishInterface/academicIntegritySetup.ts#L13) it would take to get that module into the blueprint for each course. Built in user feedback to make sure the user knows the process is in progress.
 
 ## Tools & Technologies
 
